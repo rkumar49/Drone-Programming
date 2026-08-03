@@ -1,0 +1,9 @@
+pysimverse
+opencv-python
+opencv-contrib-python
+mediapipe
+numpy
+keyboard
+pillow
+matplotlib
+scipy
